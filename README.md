@@ -29,23 +29,14 @@
 <img align="right" src="https://github.com/2396289675-dev.png?size=240" width="140" alt="sasa's GitHub avatar" />
 
 ```text
-$ whoami
-sasa · Beijing
-Building tools for work & everyday life.
+sasa · Beijing · Building tools for work & everyday life.
 
-$ current_focus
 - 🔭 AI-assisted PR workflows
 - 📡 Media monitoring & productivity
 - 🖥️ Small macOS desktop tools
 
-$ stack
 Swift / Python / HTML
-
 ```
-
-<br clear="both" />
-
-### ✨ Selected Projects
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
