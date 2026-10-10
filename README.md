@@ -44,6 +44,8 @@ Swift / Python / HTML
 | ✅ [DesktopTodo](https://github.com/2396289675-dev/DesktopTodo) | 常驻 macOS 桌面的透明待办卡片，支持快捷收录文本 | Swift |
 | 🗓️ [DesktopCalendar](https://github.com/2396289675-dev/DesktopCalendar) | 用 Swift 实现的桌面日历项目 | Swift |
 | 🎬 [media-douyin-monitor](https://github.com/2396289675-dev/media-douyin-monitor) | 发现媒体账号、采集视频数据，生成可视化监测看板 | Python · Playwright · HTML |
+| 📝 [tancan-generator](https://github.com/2396289675-dev/tancan-generator) | 核实人物与机构信息，按模板生成谈参文档 | AI Skill · python-docx |
+| 📰 [regional-media-brief](https://github.com/2396289675-dev/regional-media-brief) | 调研区域媒体情况，生成简报 | Python · HTML |
 
 ### 📊 GitHub Stats
 
