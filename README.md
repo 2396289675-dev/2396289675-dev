@@ -13,11 +13,11 @@
 
 <h2 align="center">Hi, I'm sasa 👋</h2>
 
+<p align="center">Keep learning. Keep building. Keep sharing.</p>
+
 <h3 align="center">A curious builder, always learning.</h3>
 
 <p align="center">Welcome to my world.</p>
-
-<p align="center">用 AI 和代码，把工作与生活里的小想法做成实用工具。</p>
 
 <p align="center">
   <a href="https://github.com/2396289675-dev?tab=repositories"><img alt="My projects" src="https://img.shields.io/badge/PROJECTS-Explore-8b5cf6?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
@@ -41,8 +41,6 @@ $ current_focus
 $ stack
 Swift / Python / HTML
 
-$ philosophy
-Keep learning. Keep building. Keep sharing.
 ```
 
 <br clear="both" />
