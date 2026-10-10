@@ -17,8 +17,6 @@
 
 <h3 align="center">A curious builder, always learning.</h3>
 
-<p align="center">Welcome to my world.</p>
-
 <p align="center">
   <a href="https://github.com/2396289675-dev?tab=repositories"><img alt="My projects" src="https://img.shields.io/badge/PROJECTS-Explore-8b5cf6?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://github.com/2396289675-dev?tab=stars"><img alt="My stars" src="https://img.shields.io/badge/DISCOVER-My%20Stars-38bdf8?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
