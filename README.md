@@ -35,8 +35,8 @@ Building tools for work & everyday life.
 
 $ current_focus
 - 🔭 AI-assisted PR workflows
-- 🖥️ Small macOS desktop tools
 - 📡 Media monitoring & productivity
+- 🖥️ Small macOS desktop tools
 
 $ stack
 Swift / Python / HTML
