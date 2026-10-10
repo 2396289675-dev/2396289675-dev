@@ -49,10 +49,10 @@ Swift / Python / HTML
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| 📡 [传播机会雷达](https://github.com/2396289675-dev/pr-opportunity-radar) | 采集热榜与官媒内容，筛选传播机会并生成看板 | Python · HTML |
+| 📡 [pr-opportunity-radar](https://github.com/2396289675-dev/pr-opportunity-radar) | 采集热榜与官媒内容，筛选传播机会并生成看板 | Python · HTML |
 | ✅ [DesktopTodo](https://github.com/2396289675-dev/DesktopTodo) | 常驻 macOS 桌面的透明待办卡片，支持快捷收录文本 | Swift |
 | 🗓️ [DesktopCalendar](https://github.com/2396289675-dev/DesktopCalendar) | 用 Swift 实现的桌面日历项目 | Swift |
-| 🎬 [媒体抖音监测](https://github.com/2396289675-dev/media-douyin-monitor) | 发现媒体账号、采集视频数据，生成可视化监测看板 | Python · Playwright · HTML |
+| 🎬 [media-douyin-monitor](https://github.com/2396289675-dev/media-douyin-monitor) | 发现媒体账号、采集视频数据，生成可视化监测看板 | Python · Playwright · HTML |
 
 ### 📊 GitHub Stats
 
